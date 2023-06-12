@@ -1,1 +1,1 @@
-# Ejercicios-L-gica
+# Ejercicios-Lógica
